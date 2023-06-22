@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/react": "^1.3",
+        "spatie/typescript-transformer": "^2.2"
+    }
+}
